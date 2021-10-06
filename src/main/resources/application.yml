@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: orangeTalents07DojaoOrquestrador
+  server:
+    port: 8081
